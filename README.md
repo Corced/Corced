@@ -1,4 +1,5 @@
-"Ini tombol downloadnya sebelah mana?"
+🇮🇩 "Ini tombol downloadnya sebelah mana?"
+🇬🇧 "Where's the download button?"
 
 <!---
 Corced/Corced is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
