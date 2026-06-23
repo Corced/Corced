@@ -1,6 +1,6 @@
 ╔. .※.════════════════════════════════╗
 
-I'm studying software engineering at a vocational high school.
+A common man in an uncommon field
 
 ╚════════════════════════════════. .※.╝       
 
